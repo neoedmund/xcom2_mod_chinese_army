@@ -1,1 +1,2 @@
-﻿You created an XCOM 2 Mod Project!
++ 新增士兵都是中国人
++ 新增士兵名字是三国的人物
